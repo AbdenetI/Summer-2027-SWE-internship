@@ -176,3 +176,5 @@
 - [N1 — Software Engineer Intern (Backend, Rust)](https://jobs.ashbyhq.com/N1/afe7deb5-9cfd-4926-bcb4-058d418592a6) — deadline: Rolling — posted: 1w — location: New York City — found: 2026-08-27T10:19:34Z
 - [Uncountable — Full-Stack Intern](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae) — deadline: Rolling — posted: 12m — location: New York, San Francisco — found: 2026-08-27T10:19:34Z
 - [ByteDance — Backend Development Engineer Intern](https://joinbytedance.com/search/7668489218234157365) — deadline: Rolling — posted: 16m — location: San Jose, CA — found: 2026-08-27T10:19:34Z
+- [Capital One — Technology Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Technology-Summer-Internship_R999269) — deadline: Rolling — posted: 0d — location: Nottingham, UK — found: 2026-08-27T11:24:43Z
+- [Zipline — Enterprise Systems Software Engineer Intern - Summer 2027](https://www.zipline.com/open-roles/7886501003) — deadline: Rolling — posted: null — location: South San Francisco, CA — found: 2026-08-27T11:24:43Z
