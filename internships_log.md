@@ -316,3 +316,7 @@
 - [Quantbot Technologies — Quantitative Developer Internship - 2027 - New York](https://www.quantbot.com/careers/4341038009) — deadline: Rolling — posted: 20d — location: New York City, NY — found: 2026-08-28T19:17:10Z
 - [Manhattan Associates — A.I. Developer Co-Op - Boston - MA](https://manh.wd5.myworkdayjobs.com/en-US/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931) — deadline: Rolling — posted: 48d — location: USA (Boston, MA remote/home office) — found: 2026-08-28T19:17:10Z
 - [Stevens Capital Management — Developer Internship](https://job-boards.greenhouse.io/scm/jobs/721888) — deadline: Rolling — posted: 95d — location: Radnor, PA — found: 2026-08-28T19:17:10Z
+
+- [Zipline — Applications Engineer Intern (Summer 2027)](https://www.zipline.com/open-roles/7909946003) — deadline: Rolling — posted: N/A — location: South San Francisco, CA — found: 2026-08-28T20:22:01Z
+- [Zipline — Software Systems Validation Intern (Summer 2027)](https://www.zipline.com/open-roles/7894335003) — deadline: Rolling — posted: N/A — location: South San Francisco, CA — found: 2026-08-28T20:22:01Z
+- [Zipline — System Test Automation Intern (Summer 2027)](https://www.zipline.com/open-roles/7886320003) — deadline: Rolling — posted: N/A — location: South San Francisco, CA — found: 2026-08-28T20:22:01Z
