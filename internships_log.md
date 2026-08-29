@@ -351,3 +351,8 @@
 - [Northwood Space — Embedded Software Engineer Intern](https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c) — deadline: Rolling — posted: 0d — location: Torrance, CA — found: 2026-08-29T08:17:10Z
 - [LPL Financial — Platform Engineer Intern](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Platform-Engineer_R-052920-1) — deadline: Rolling — posted: 1w — location: Fort Mill, SC / Charlotte, NC — found: 2026-08-29T09:17:31Z
 - [Manulife — Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680) — deadline: Rolling — posted: 1d — location: Boston, MA — found: 2026-08-29T10:15:50Z
+
+- [CesiumAstro — Summer 2027 - Software Engineering Internship](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411) — deadline: Rolling — posted: 1d — location: Austin, TX — found: 2026-08-29T11:16:15Z
+- [CesiumAstro — Summer 2027 - Embedded Software Engineering Internship](https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7) — deadline: Rolling — posted: 1d — location: Austin, TX — found: 2026-08-29T11:16:15Z
+- [Emory University — Internship - GPS Sample Tester and Junior Developer (ETS) | Temporary](https://staff-emory.icims.com/jobs/172196/internship%2c-gps-sample-tester-and-junior-developer-%28ets%29-%7c-temporary/job) — deadline: Rolling — posted: 6d — location: Decatur, GA — found: 2026-08-29T11:16:15Z
+- [Hiebing — AI Agent Developer Intern](http://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern) — deadline: Rolling — posted: 18d — location: Madison, WI — found: 2026-08-29T11:16:15Z
