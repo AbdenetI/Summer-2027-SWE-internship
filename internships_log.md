@@ -358,3 +358,4 @@
 - [Hiebing — AI Agent Developer Intern](http://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern) — deadline: Rolling — posted: 18d — location: Madison, WI — found: 2026-08-29T11:16:15Z
 - [Ambrook — Software Engineering Intern](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456/application) — deadline: Rolling — location: New York, NY / Denver, CO / San Francisco, CA / Remote (hybrid) — found: 2026-08-29T13:22:57Z
 - [Sentry — Software Engineer, Intern (Summer 2027)](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application) — deadline: Rolling — location: San Francisco, CA — found: 2026-08-29T13:22:57Z
+- [Vertiv — Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-vertiv-4451548801) — deadline: Rolling — posted: 5d ago — location: Not specified — found: 2026-08-29T15:21:21Z
