@@ -381,3 +381,5 @@
 - [MSA Safety — Software Engineer Intern - Product Development - Summer 2027](https://careers.msasafety.com/jobs/9993) — deadline: Rolling — posted: 5d ago — location: Cranberry Township, PA — found: 2026-08-30T06:18:09Z
 - [Garmin — Software Engineer Intern](https://careers.garmin.com/jobs/19693) — deadline: Rolling — posted: 5d ago — location: Olathe, KS — found: 2026-08-30T06:18:09Z
 - [Crowe — Data Analytics Developer Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) — deadline: Rolling — posted: 1w ago — location: Chicago, IL, USA — found: 2026-08-30T06:18:09Z
+- [Tower Research Capital — Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334) — deadline: Rolling — posted: 2026-07-06 — location: New York, NY / Chicago, IL — found: 2026-08-30T12:16:23Z
+- [Manulife (John Hancock) — Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Summer-Intern-2027---Software-Engineering_JR26081680) — deadline: Rolling — posted: null — location: Boston, MA — found: 2026-08-30T12:16:23Z
