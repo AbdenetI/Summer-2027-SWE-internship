@@ -448,3 +448,6 @@
 - [HP IQ — Software Engineer Intern - Software Systems](https://job-boards.greenhouse.io/hpiq/jobs/6140119004) — deadline: Rolling — posted: 0d — location: SF — found: 2026-09-01T00:15:43Z
 - [HP IQ — Software Engineer Intern](https://job-boards.greenhouse.io/hpiq/jobs/6114912004) — deadline: Rolling — posted: 0d — location: SF — found: 2026-09-01T00:15:43Z
 - [HP IQ — Software Engineer Intern - Product Security](https://job-boards.greenhouse.io/hpiq/jobs/6116398004) — deadline: Rolling — posted: 0d — location: SF — found: 2026-09-01T00:15:43Z
+- [Aerotech — Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team](https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027) — deadline: Rolling — posted: 0d — location: Pittsburgh, PA — found: 2026-09-01T01:14:56Z
+- [Westinghouse Electric Company — Computer Engineering / Software Engineering Intern](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200) — deadline: Rolling — posted: 0d — location: Rock Hill, SC; Columbia, SC — found: 2026-09-01T01:14:56Z
+- [Cvent — Software Engineer Intern - Summer 2027](https://careers.cvent.com/jobs/10806) — deadline: Rolling — posted: 0d — location: Tysons, VA — found: 2026-09-01T01:14:56Z
