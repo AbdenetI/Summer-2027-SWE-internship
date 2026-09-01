@@ -453,3 +453,4 @@
 - [Cvent — Software Engineer Intern - Summer 2027](https://careers.cvent.com/jobs/10806) — deadline: Rolling — posted: 0d — location: Tysons, VA — found: 2026-09-01T01:14:56Z
 - [Merchants Bank of Indiana — Business Technology Intern - Application Development](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054) — deadline: Rolling — posted: 0d — location: Carmel, IN — found: 2026-09-01T03:12:33Z
 - [Merchants Bank of Indiana — Business Technology Intern - Summer 2027](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464029) — deadline: Rolling — posted: 0d — location: Carmel, IN — found: 2026-09-01T03:12:33Z
+- [Terranox AI — Summer Intern - AI/ML Engineering](https://www.workatastartup.com/jobs/94631) — deadline: Rolling — posted: May 14 — location: San Francisco, CA — found: 2026-09-01T05:18:18Z
