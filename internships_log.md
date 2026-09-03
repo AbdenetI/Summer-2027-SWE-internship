@@ -625,3 +625,12 @@
 - [Apex Technology — Software Engineering Internship, Embedded](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda) — deadline: Rolling — posted: 8h — location: Los Angeles, CA — found: 2026-09-03T00:23:21Z
 - [Goldman Sachs — Summer Analyst, Engineering](https://higher.gs.com/roles/171567) — deadline: Rolling — posted: Aug 20, 2026 — location: Toronto, ON — found: 2026-09-03T00:23:21Z
 - [Northwood Space — Software Engineering Intern (2027 Summer Internship)](https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119) — deadline: Rolling — posted: N/A — location: Torrance, CA — found: 2026-09-03T00:23:21Z
+
+- [GPC — Cloud Developer Intern](https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133) — deadline: Rolling — posted: 1d — location: Birmingham, AL — found: 2026-09-03T01:16:29Z
+- [K2 Space — Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) — deadline: Rolling — posted: 1d — location: Los Angeles, CA — found: 2026-09-03T01:16:29Z
+- [OnLogic — Firmware Engineering Co-op](https://apply.workable.com/onlogic-inc/j/10EC1527D8/) — deadline: Rolling — posted: 1d — location: Cary, NC +1 — found: 2026-09-03T01:16:29Z
+- [Stanley Black & Decker — Embedded Engineering Summer Intern 2027](https://sbdinc.wd1.myworkdayjobs.com/en-US/stanley_black_decker_career_site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) — deadline: Rolling — posted: 1d — location: Towson, MD — found: 2026-09-03T01:16:29Z
+- [Human Computer Lab — Intern - Software/ML Engineer](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705) — deadline: Rolling — posted: 14m — location: San Francisco — found: 2026-09-03T01:16:29Z
+- [Audax Group — Data Engineer Co-Op](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005) — deadline: Rolling — posted: 1w — location: Boston, Massachusetts — found: 2026-09-03T01:16:29Z
+- [Sysco — Data Engineer Intern](https://wd5.myworkdaysite.com/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R263666) — deadline: Rolling — posted: 1w — location: Sysco Corporate — found: 2026-09-03T01:16:29Z
+- [Emerson Electric — Firmware Engineer Co-Op](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008761) — deadline: Rolling — posted: 2d — location: Marshalltown, IA, United States — found: 2026-09-03T01:16:29Z
