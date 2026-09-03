@@ -686,3 +686,4 @@
 - [National Information Solutions Cooperative — Software Development Intern](https://job-boards.greenhouse.io/testnisc/jobs/8174090?utm_source=Simplify&ref=Simplify) — deadline: Rolling — posted: 0d — location: Lake St Louis, MO — found: 2026-09-03T10:20:31Z
 - [National Information Solutions Cooperative — Software Development Intern](https://job-boards.greenhouse.io/testnisc/jobs/8174088?utm_source=Simplify&ref=Simplify) — deadline: Rolling — posted: 0d — location: Lake St Louis, MO; Mandan, ND; Cedar Rapids, IA — found: 2026-09-03T10:20:31Z
 - [Kinder Morgan — Information Technology Intern - Application Development](https://careers.kindermorgan.com/jobs/6171) — deadline: Rolling — posted: 0d — location: Colorado Springs, CO — found: 2026-09-03T11:19:54Z
+- [AMD — AGS Libraries Intern/Co-op](https://careers.amd.com/jobs/90427?icims=1&utm_source=Simplify&ref=Simplify) — deadline: Rolling — posted: 2d — location: Calgary, AB, Canada — found: 2026-09-03T14:18:35Z
