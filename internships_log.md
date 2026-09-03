@@ -671,3 +671,7 @@
 - [Genuine Parts Company ✓ — Cloud Developer Intern 🆕](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133) — deadline: Rolling — posted: Sep 01, 2026 — location: Birmingham, AL, USA — found: 2026-09-03T06:25:12Z
 - [Emerson Electric — Embedded Software Co-Op](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008443) — deadline: Rolling — posted: Sep 01, 2026 — location: Marshalltown, IA, United States — found: 2026-09-03T06:25:12Z
 - [Ambarella ✓ — Software Architecture Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365) — deadline: Rolling — posted: Aug 27, 2026 — location: US Headquarters — found: 2026-09-03T06:25:12Z
+- [Shure — Cloud Applications Development Intern](https://careersus-shure.icims.com/jobs/4965/job) — deadline: Rolling — posted: 0d — location: Niles, IL — found: 2026-09-03T07:20:03Z
+- [Shure — Mobile Applications Intern - Android](https://careersus-shure.icims.com/jobs/5006/job) — deadline: Rolling — posted: 0d — location: Niles, IL — found: 2026-09-03T07:20:03Z
+- [Shure — Mobile Applications Intern - iOS](https://careersus-shure.icims.com/jobs/5007/job) — deadline: Rolling — posted: 0d — location: Niles, IL — found: 2026-09-03T07:20:03Z
+- [Shure — Application Systems Development Intern - Motive Mix](https://careersus-shure.icims.com/jobs/5021/job) — deadline: Rolling — posted: 0d — location: Niles, IL — found: 2026-09-03T07:20:03Z
