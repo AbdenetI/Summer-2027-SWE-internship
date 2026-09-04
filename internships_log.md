@@ -712,3 +712,7 @@
 - [Waymo — 2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) — deadline: Rolling — posted: 6h — location: Mountain View, CA — found: 2026-09-03T22:18:13Z
 - [Mastercard — Site Reliability Engineering Intern - Summer 2027](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654) — deadline: Rolling — posted: Sep 03, 2026 — location: O'Fallon, MO — found: 2026-09-04T01:16:54Z
 - [Skyward — Software Engineer Intern](https://jobs.smartrecruiters.com/Skyward1/744000147320799) — deadline: Rolling — posted: Sep 03, 2026 — location: Stevens Point, WI — found: 2026-09-04T01:16:54Z
+
+- [ByteDance — Backend Developer Intern - Infrastructure Platform Delivery](https://jobs.bytedance.com/en/position/7668489218234157365/detail) — deadline: Rolling — posted: 29d — location: San Jose, CA — found: 2026-09-04T02:16:20Z
+- [DriveTime — Software Engineering Intern](https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294) — deadline: Rolling — posted: Sep 03, 2026 — location: Tempe, AZ — found: 2026-09-04T02:16:20Z
+- [DriveTime — Database Engineering Intern](https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300) — deadline: Rolling — posted: Sep 03, 2026 — location: Tempe, AZ — found: 2026-09-04T02:16:20Z
