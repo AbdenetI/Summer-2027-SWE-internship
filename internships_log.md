@@ -710,3 +710,5 @@
 - [Akuna Capital — Quantitative Development & Strategy Intern](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) — deadline: Rolling — posted: 1mo — location: Chicago, IL — found: 2026-09-03T20:16:06Z
 - [Waymo — 2027 Summer Intern, MS, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174504) — deadline: Rolling — posted: 1h — location: San Francisco, CA — found: 2026-09-03T22:18:13Z
 - [Waymo — 2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) — deadline: Rolling — posted: 6h — location: Mountain View, CA — found: 2026-09-03T22:18:13Z
+- [Mastercard — Site Reliability Engineering Intern - Summer 2027](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654) — deadline: Rolling — posted: Sep 03, 2026 — location: O'Fallon, MO — found: 2026-09-04T01:16:54Z
+- [Skyward — Software Engineer Intern](https://jobs.smartrecruiters.com/Skyward1/744000147320799) — deadline: Rolling — posted: Sep 03, 2026 — location: Stevens Point, WI — found: 2026-09-04T01:16:54Z
