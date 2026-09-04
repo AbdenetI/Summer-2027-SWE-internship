@@ -816,3 +816,4 @@
 - [Microsoft — Penetration Tester - Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556962158) — deadline: Rolling — posted: 21h — location: Redmond, WA — found: 2026-09-04T19:16:06Z
 - [Cadence — Software Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258) — deadline: Rolling — posted: 1d — location: San Jose, CA — found: 2026-09-04T19:16:06Z
 - [Micron Technology — Intern - AI Agentic Systems Engineer](https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474) — deadline: Rolling — posted: 1d — location: Folsom, CA — found: 2026-09-04T19:16:06Z
+- [Shure — Cloud Operations Intern](https://careersus-shure.icims.com/jobs/4952/cloud-operations-intern/job) — deadline: Rolling — posted: 0d — location: Skokie, IL — found: 2026-09-04T20:19:23Z
