@@ -743,3 +743,8 @@
 - [Etched — Firmware Intern](https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc) — deadline: Rolling — posted: 18m — location: San Jose, CA — found: 2026-09-04T06:24:41Z
 - [Primer — Software Engineer Intern - Full Stack](https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true) — deadline: Rolling — posted: 0d — location: SF — found: 2026-09-04T07:19:04Z
 - [RSM — Application Development Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2027_JR120736) — deadline: Rolling — posted: 0d — location: Des Moines, IA; Chicago, IL; Minneapolis, MN; Denver, CO — found: 2026-09-04T07:19:04Z
+- [Wipfli — Product Development Intern](https://careers-wipfli.icims.com/jobs/8307/job) — deadline: Rolling — posted: 0d — location: Milwaukee, WI — found: 2026-09-04T08:30:15Z
+- [Wipfli — Product Development Intern](https://careers-wipfli.icims.com/jobs/8305/job) — deadline: Rolling — posted: 0d — location: Chicago, IL — found: 2026-09-04T08:30:15Z
+- [Wipfli — Product Development Intern - Summer 2027](https://careers-wipfli.icims.com/jobs/8304/job) — deadline: Rolling — posted: 0d — location: Minneapolis, MN — found: 2026-09-04T08:30:15Z
+- [Hermeus — Software Engineer Intern - Command & Control](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply) — deadline: Rolling — posted: 1d — location: Atlanta, GA — found: 2026-09-04T08:30:15Z
+- [Radix Trading — Quantitative Technologist Intern, C++](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) — deadline: Rolling — posted: Jul 24 — location: Chicago, IL — found: 2026-09-04T08:30:15Z
