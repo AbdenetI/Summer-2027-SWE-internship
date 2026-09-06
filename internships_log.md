@@ -877,3 +877,4 @@
 - [CNA Insurance — Technology Internship Program - Software Engineering](https://cna.wd1.myworkdayjobs.com/en-US/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107) — deadline: Rolling — posted: 1d — location: Chicago, IL — found: 2026-09-05T20:18:34Z
 - [Palantir — Software Engineer, Internship](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) — deadline: Rolling — posted: 14m — location: Denver, CO — found: 2026-09-06T00:20:20Z
 - [Solidigm — 2027 Undergraduate Software Development & Firmware Engineering Internships – US](https://jobs.smartrecruiters.com/solidigm/744000147613629) — deadline: Rolling — posted: 1d — location: Rancho Cordova, CA — found: 2026-09-06T00:20:20Z
+- [Solidigm — 2027 Graduate Software, Firmware & AI Engineering Internships - US](https://jobs.smartrecruiters.com/solidigm/744000147613769) — deadline: Rolling — posted: 1d — location: Rancho Cordova, CA — found: 2026-09-06T02:15:41Z
