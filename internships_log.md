@@ -878,3 +878,4 @@
 - [Palantir — Software Engineer, Internship](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) — deadline: Rolling — posted: 14m — location: Denver, CO — found: 2026-09-06T00:20:20Z
 - [Solidigm — 2027 Undergraduate Software Development & Firmware Engineering Internships – US](https://jobs.smartrecruiters.com/solidigm/744000147613629) — deadline: Rolling — posted: 1d — location: Rancho Cordova, CA — found: 2026-09-06T00:20:20Z
 - [Solidigm — 2027 Graduate Software, Firmware & AI Engineering Internships - US](https://jobs.smartrecruiters.com/solidigm/744000147613769) — deadline: Rolling — posted: 1d — location: Rancho Cordova, CA — found: 2026-09-06T02:15:41Z
+- [McKesson — Software Engineer Intern - Summer 2027](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Software-Engineer-Intern---Summer-2027_JR0152469) — deadline: Rolling — posted: null — location: Longmont, CO — found: 2026-09-06T05:17:57Z
