@@ -933,3 +933,5 @@
 - [AMD — Firmware Engineering Intern Co-op - Undergrad](https://careers.amd.com/jobs/90807?icims=1) — deadline: Rolling — posted: 17d — location: San Jose, CA; Santa Clara, CA — found: 2026-09-07T16:18:15Z
 - [AMD — Firmware Engineer Co-op/Intern](https://careers.amd.com/jobs/90809?icims=1) — deadline: Rolling — posted: 17d — location: San Jose, CA; Santa Clara, CA — found: 2026-09-07T16:18:15Z
 - [McKesson — Software Engineer Intern - Summer 2027](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Software-Engineer-Intern---Summer-2027_JR0153235) — deadline: Rolling — posted: null — location: Irving, TX — found: 2026-09-07T16:18:15Z
+- [Dropbox — Software Engineer Intern - Summer 2027](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) — deadline: Rolling — posted: 0d — location: Remote in USA — found: 2026-09-07T17:18:04Z
+- [Cubist Systematic Strategies — Quantitative Developer Intern](https://job-boards.greenhouse.io/point72/jobs/7297613002) — deadline: Rolling — posted: null — location: New York, NY — found: 2026-09-07T17:18:04Z
