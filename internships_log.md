@@ -904,3 +904,5 @@
 - [Epic Games — Machine Learning Research Intern](https://www.epicgames.com/site/careers/jobs/6138140004) — deadline: Rolling — posted: Aug 21 — location: Montreal, Canada — found: 2026-09-07T09:18:02Z
 - [Modal — ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) — deadline: Rolling — posted: Aug 04 — location: New York, NY; San Francisco, CA — found: 2026-09-07T09:18:02Z
 - [Etched — Supercomputing Intern](https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e) — deadline: Rolling — posted: May 22 — location: San Jose, CA — found: 2026-09-07T09:18:02Z
+- [Solar Turbines (Caterpillar) — IT Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) — deadline: Rolling — posted: 2026-07-16 — location: San Diego, CA — found: 2026-09-07T11:26:32Z
+- [DTCC — Information Technology Intern (2027 Summer)](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158) — deadline: Rolling — posted: 2026-07-08 — location: Jersey City, NJ (multiple US) — found: 2026-09-07T11:26:32Z
