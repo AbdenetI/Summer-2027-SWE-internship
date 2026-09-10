@@ -1161,3 +1161,4 @@
 - [NVIDIA — System Software Intern, Video Chips - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179) — deadline: Rolling — posted: 2026-09-10 — location: China, Shanghai — found: 2026-09-10T07:20:00Z
 - [Talos — Software Engineer Intern, RFQ](https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285) — deadline: Rolling — posted: null — location: New York, NY — found: 2026-09-10T14:17:10Z
 - [Spectrum — 2027 Summer Intern: Software Engineer](https://jobs.spectrum.com/job/town-and-country/2027-summer-intern-software-engineer/4673/100143762416) — deadline: Sep 21, 2026 — posted: null — location: Town and Country, MO — found: 2026-09-10T14:17:10Z
+- [Planview — Software Engineer Intern](https://careers.planview.com/jobs/5128?icims=1) — deadline: Rolling — posted: 0d ago — location: Austin, TX — found: 2026-09-10T15:17:21Z
