@@ -1535,3 +1535,4 @@
 - [Choice Solutions — DevOps Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4484980) — deadline: Rolling — posted: 7d — location: Overland Park, KS — found: 2026-09-17T04:17:56Z
 - [Ambrook — Software Engineering Co-op](https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5) — deadline: Rolling — posted: 38d — location: New York City, NY — found: 2026-09-17T04:17:56Z
 - [Relay — Software Engineer Intern - Product Engineering (AI/ML focus)](https://job-boards.greenhouse.io/relaypro/jobs/7342994) — deadline: Rolling — posted: Sep 16 — location: Raleigh, NC — found: 2026-09-17T04:17:56Z
+- [Capital One — Technology Internship Program - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1) — deadline: Rolling — posted: null — location: Continental US, multiple sites — found: 2026-09-17T06:27:09Z
