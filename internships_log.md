@@ -1542,3 +1542,4 @@
 - [Google — Software Developer Intern, BS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern) — deadline: Rolling — posted: null — location: Multiple locations (see posting) — found: 2026-09-17T07:17:04Z
 - [CesiumAstro — Embedded Software Engineering Internship - Summer 2027](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663) — deadline: Rolling — posted: 0d — location: Westminster, CO — found: 2026-09-17T09:17:03Z
 - [CesiumAstro — Embedded Software Engineering Internship - Summer 2027](https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa) — deadline: Rolling — posted: 0d — location: Austin, TX — found: 2026-09-17T09:17:03Z
+- [Base Power Company — Quantitative Developer Intern](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) — deadline: Rolling — posted: 1d — location: Austin, TX — found: 2026-09-17T10:14:21Z
