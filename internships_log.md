@@ -1734,3 +1734,6 @@
 - [Zipline — Maps Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7980866003) — deadline: Rolling — posted: 20d — location: South San Francisco, CA — found: 2026-09-18T22:21:49Z
 - [Goldman Sachs — Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171567?type=students) — deadline: Rolling — posted: 1mo — location: Toronto, ON, Canada — found: 2026-09-18T22:21:49Z
 - [Amazon — Software Development Engineer Intern - Summer 2027 (CAN)](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) — deadline: Rolling — posted: Sep 18, 2026 — location: Vancouver, British Columbia, Canada — found: 2026-09-18T22:21:49Z
+- [CoBank — Software Engineer Intern](https://careers.cobank.com/jobs/7940?icims=1) — deadline: Rolling — posted: 0d — location: Greenwood Village, CO — found: 2026-09-18T23:13:17Z
+- [Robinhood — Software Engineering Intern, Web (Summer 2027)](https://job-boards.greenhouse.io/robinhood/jobs/8142963?gh_jid=8142963) — deadline: Rolling — location: Menlo Park, CA / New York, NY — found: 2026-09-18T23:13:17Z
+- [CTGT — Software Engineering Intern](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) — deadline: Rolling — location: San Francisco, CA — found: 2026-09-18T23:13:17Z
