@@ -1603,3 +1603,5 @@
 - [TRC Companies — Software Engineer Intern](https://careers.trccompanies.com/jobs/26840?icims=1) — deadline: Rolling — posted: 0d — location: Calgary, AB, Canada — found: 2026-09-18T02:15:01Z
 - [Hy-Vee — Digital Software Engineering Intern - Summer 2027](https://hyvee.wd1.myworkdayjobs.com/en-US/HyVeeCareers/job/Digital-Software-Engineering-Intern---Summer-2027_R250133) — deadline: Rolling — location: Grimes, IA / West Des Moines, IA — found: 2026-09-18T02:15:01Z
 - [Walmart — Summer 2027 Intern: Software Engineer II](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) — deadline: Rolling — location: Bentonville, AR; Sunnyvale, CA — found: 2026-09-18T02:15:01Z
+- [Tesla — Internship - Software Engineering - People Products - Summer 2027](https://www.tesla.com/careers/search/job/284004) — deadline: Rolling — posted: 0d — location: Palo Alto, CA — found: 2026-09-18T07:24:48Z
+- [Figma — Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/figma/jobs/4595340004) — deadline: Rolling — location: London, UK — found: 2026-09-18T07:24:48Z
