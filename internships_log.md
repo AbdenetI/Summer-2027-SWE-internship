@@ -1867,3 +1867,6 @@
 - [talentpluto — Backend Engineering Intern](https://apply.workable.com/talentpluto/j/6A02556484) — deadline: Rolling — posted: 4d — location: USA — found: 2026-09-19T22:23:03Z
 - [talentpluto — Full Stack Engineering Intern](https://apply.workable.com/talentpluto/j/717116FEE8) — deadline: Rolling — posted: 8d — location: New York City, NY — found: 2026-09-19T22:23:03Z
 - [NinjaHoldings — Software Engineer Intern](https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern) — deadline: Rolling — posted: 9d — location: Chicago, IL — found: 2026-09-19T22:23:03Z
+- [Cisco — Software Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2025890) — deadline: Rolling — posted: 2026-09-16 — location: Research Triangle Park, NC — found: 2026-09-19T23:16:56Z
+- [Cisco — Software Consulting Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2025180) — deadline: Rolling — posted: 2026-09-08 — location: Research Triangle Park, NC — found: 2026-09-19T23:16:56Z
+- [Netsmart — Cloud Engineer Future - Summer 2027 Internship](https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668) — deadline: Rolling — posted: 0d — location: Overland Park, KS — found: 2026-09-19T23:16:56Z
