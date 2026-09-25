@@ -2116,3 +2116,4 @@
 - [Waymo — 2027 Summer Intern, MS/PhD, Software Engineer](https://job-boards.greenhouse.io/waymo/jobs/8224729) — deadline: Rolling — posted: 1d — location: Mountain View, CA — found: 2026-09-25T20:15:35Z
 - [Waymo — 2027 Summer Intern, BS/MS, Embedded, Software Engineer](https://job-boards.greenhouse.io/waymo/jobs/8221198) — deadline: Rolling — posted: 3d — location: Mountain View, CA — found: 2026-09-25T20:15:35Z
 - [SeatGeek — Software Engineer - Internship](https://job-boards.greenhouse.io/seatgeek/jobs/8227553) — deadline: Rolling — posted: 1d — location: New York, NY — found: 2026-09-25T20:15:35Z
+- [Barrios — Data and Computer Engineering/Computer Science Intern](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false) — deadline: Rolling — posted: 0d — location: Houston, TX — found: 2026-09-25T21:15:11Z
