@@ -2072,3 +2072,4 @@
 - [Graphcore — Firmware Engineering Intern](https://job-boards.greenhouse.io/graphcore/jobs/8841894002) — deadline: Rolling — posted: 0d — location: Austin, TX — found: 2026-09-25T01:17:20Z
 - [Salesforce — Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1/apply) — deadline: Rolling — posted: N/A — location: San Francisco, CA — found: 2026-09-25T01:17:20Z
 - [Electronic Arts — Gameplay Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245?utm_source=Simplify&ref=Simplify) — deadline: Rolling — posted: 0d — location: LA — found: 2026-09-25T02:16:24Z
+- [Trane Technologies — Software Engineering Intern](https://careers.tranetechnologies.com/global/en/job/2503981/Software-Engineering-Intern) — deadline: Rolling — posted: 3d — location: La Crosse, Wisconsin — found: 2026-09-25T06:16:33Z
