@@ -2236,3 +2236,4 @@
 - [Tyler Technologies — Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oMAPAfwv?fr=false) — deadline: Rolling — posted: 4d — location: Plano, TX — found: 2026-09-26T20:18:19Z
 - [Tyler Technologies — Software Development Intern](https://jobs.jobvite.com/tylertech/job/oKQJAfwD?fr=false) — deadline: Rolling — posted: 4d — location: Lubbock, TX — found: 2026-09-26T20:18:19Z
 - [Tyler Technologies — Software Development Intern](https://jobs.jobvite.com/tylertech/job/oAVOAfwD?fr=false) — deadline: Rolling — posted: 8d — location: Lawrenceville, GA — found: 2026-09-26T20:18:19Z
+- [West Bend Insurance Company — Summer 2027 Internship - IT Software Engineer](https://careers-thesilverlining.icims.com/jobs/3759/summer-2027-internship---it-software-engineer/job) — deadline: Rolling — location: West Bend, WI — found: 2026-09-26T21:17:50Z
