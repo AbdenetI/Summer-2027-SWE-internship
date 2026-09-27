@@ -2257,3 +2257,4 @@
 - [EquipmentShare — Intern: Engineering - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763) — deadline: Rolling — posted: 13d — location: Columbia, MO — found: 2026-09-27T18:18:06Z
 - [Bosch — Phone as a Key Software Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) — deadline: Rolling — posted: 32d — location: Plymouth, MI — found: 2026-09-27T18:18:06Z
 - [State Farm — Software Developer Intern - HR&D](https://jobs.statefarm.com/jobs/45689?icims=1) — deadline: Rolling — posted: 3d — location: Tempe, AZ; Dunwoody, GA; Richardson, TX; Bloomington, IL — found: 2026-09-27T18:18:06Z
+- [General Astronautics — Summer 2027 Engineering Internship/Co-op](https://www.workatastartup.com/jobs/103201) — deadline: Rolling — posted: null — location: San Francisco, CA — found: 2026-09-27T22:18:02Z
