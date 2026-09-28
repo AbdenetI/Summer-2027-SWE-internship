@@ -2265,3 +2265,4 @@
 - [Tyler Technologies — Software Development Intern](https://jobs.jobvite.com/tylertech/job/oKQJAfwD) — deadline: Rolling — posted: 6d — location: Lubbock, TX — found: 2026-09-28T03:18:51Z
 - [Tyler Technologies — Software Development Intern](https://jobs.jobvite.com/tylertech/job/oAVOAfwD) — deadline: Rolling — posted: 9d — location: Lawrenceville, GA — found: 2026-09-28T03:18:51Z
 - [Figma — Software Engineer Intern - Summer 2027](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) — deadline: Rolling — posted: 12d — location: San Francisco, CA +1 — found: 2026-09-28T03:18:51Z
+- [Alumni Founders — Summer 2027 Internship - Software Engineering](https://www.linkedin.com/jobs/view/summer-2027-internship-software-engineering-at-alumni-founders-4454182186) — deadline: Rolling — posted: null — location: Not stated — found: 2026-09-28T11:20:00Z
