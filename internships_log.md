@@ -2260,3 +2260,8 @@
 - [General Astronautics — Summer 2027 Engineering Internship/Co-op](https://www.workatastartup.com/jobs/103201) — deadline: Rolling — posted: null — location: San Francisco, CA — found: 2026-09-27T22:18:02Z
 - [Google — Software Developer Intern, MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027) — deadline: Rolling — posted: null — location: Canada — found: 2026-09-27T23:18:25Z
 - [Google — Software Developer Intern, BS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027) — deadline: Rolling — posted: null — location: Canada — found: 2026-09-27T23:18:25Z
+- [Epic Games — Engine Programmer Intern](https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004) — deadline: Rolling — posted: 6d — location: Cary, NC — found: 2026-09-28T03:18:51Z
+- [Tyler Technologies — Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oMAPAfwv) — deadline: Rolling — posted: 6d — location: Plano, TX — found: 2026-09-28T03:18:51Z
+- [Tyler Technologies — Software Development Intern](https://jobs.jobvite.com/tylertech/job/oKQJAfwD) — deadline: Rolling — posted: 6d — location: Lubbock, TX — found: 2026-09-28T03:18:51Z
+- [Tyler Technologies — Software Development Intern](https://jobs.jobvite.com/tylertech/job/oAVOAfwD) — deadline: Rolling — posted: 9d — location: Lawrenceville, GA — found: 2026-09-28T03:18:51Z
+- [Figma — Software Engineer Intern - Summer 2027](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) — deadline: Rolling — posted: 12d — location: San Francisco, CA +1 — found: 2026-09-28T03:18:51Z
