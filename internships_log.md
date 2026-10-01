@@ -2372,3 +2372,4 @@
 - [Dalus — Software Engineering Internship - Summer 2027](https://www.ycombinator.com/companies/dalus/jobs/a9z5luT-software-engineering-internship) — deadline: Rolling — posted: N/A — location: San Francisco, CA — found: 2026-10-01T12:19:06Z
 - [AMD — Software Engineer Intern - Summer 2027](https://careers.amd.com/jobs/93127) — deadline: Rolling — posted: N/A — location: Penicuik / Edinburgh, UK — found: 2026-10-01T13:15:52Z
 - [Coinbase — Software Engineer Intern](https://www.coinbase.com/careers/positions/8168315) — deadline: Rolling — posted: N/A — location: San Francisco, CA (Hybrid) — found: 2026-10-01T13:15:52Z
+- [Two Sigma — Software Engineering Internship](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016) — deadline: Oct 8, 2026 — posted: N/A — location: New York, NY — found: 2026-10-01T15:15:42Z
