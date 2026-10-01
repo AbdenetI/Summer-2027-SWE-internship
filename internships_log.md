@@ -2370,3 +2370,5 @@
 - [Dandy — Summer 2027 Internship - Full Stack Software Engineering Intern](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099) — deadline: Rolling — posted: Sep 30, 2026 — location: New York, NY — found: 2026-10-01T11:15:53Z
 - [GE Healthcare — Software Engineering Summer Intern 2027 - Surgery Imaging](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4046481EXTERNALENGLOBAL/Software-Engineering-Summer-Intern-2027) — deadline: Oct 21, 2026 — posted: N/A — location: Salt Lake City, UT — found: 2026-10-01T12:19:06Z
 - [Dalus — Software Engineering Internship - Summer 2027](https://www.ycombinator.com/companies/dalus/jobs/a9z5luT-software-engineering-internship) — deadline: Rolling — posted: N/A — location: San Francisco, CA — found: 2026-10-01T12:19:06Z
+- [AMD — Software Engineer Intern - Summer 2027](https://careers.amd.com/jobs/93127) — deadline: Rolling — posted: N/A — location: Penicuik / Edinburgh, UK — found: 2026-10-01T13:15:52Z
+- [Coinbase — Software Engineer Intern](https://www.coinbase.com/careers/positions/8168315) — deadline: Rolling — posted: N/A — location: San Francisco, CA (Hybrid) — found: 2026-10-01T13:15:52Z
