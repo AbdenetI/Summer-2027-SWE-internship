@@ -2374,3 +2374,4 @@
 - [Coinbase — Software Engineer Intern](https://www.coinbase.com/careers/positions/8168315) — deadline: Rolling — posted: N/A — location: San Francisco, CA (Hybrid) — found: 2026-10-01T13:15:52Z
 - [Two Sigma — Software Engineering Internship](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016) — deadline: Oct 8, 2026 — posted: N/A — location: New York, NY — found: 2026-10-01T15:15:42Z
 - [Upbound Group — ServiceNow Developer Intern](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/User-Experience-Intern_R-100778) — deadline: Rolling — posted: 2026-09-29 — location: Plano, TX — found: 2026-10-01T17:19:44Z
+- [Scale AI — Software Engineering Intern](https://scale.com/careers/4730845005) — deadline: Rolling — posted: N/A — location: San Francisco, CA — found: 2026-10-01T18:17:13Z
