@@ -2364,3 +2364,4 @@
 - [H&R Block — Software Engineering Intern - S](https://careers-hrblock.icims.com/jobs/76987/software-engineering-intern---s/job) — deadline: Rolling — posted: 2d — location: Kansas City, MO — found: 2026-10-01T06:19:40Z
 - [Southwest Airlines — Software Engineer Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270) — deadline: Rolling — posted: 0d ago — location: Dallas, TX — found: 2026-10-01T07:14:26Z
 - [Iridium Communications — Software Engineering Internship - Summer 2027](https://careers-iridium.icims.com/jobs/5136/iridium-software-engineering-internship-%e2%80%93-summer-2027/job) — deadline: Rolling — posted: 0d ago — location: McLean, VA — found: 2026-10-01T07:14:26Z
+- [Patch My PC — Software Engineer Intern (Summer 2027)](https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341) — deadline: Rolling — posted: N/A — location: Castle Rock, CO — found: 2026-10-01T09:15:36Z
