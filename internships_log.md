@@ -2474,3 +2474,4 @@
 - [Databricks — Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8847738002) — deadline: Rolling — posted: 0d — location: London, UK — found: 2026-10-03T07:19:31Z
 - [Waymo — 2027 Summer Intern - MS/PhD - Software Engineer - Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198) — deadline: Rolling — posted: 1d — location: Mountain View, CA — found: 2026-10-03T07:19:31Z
 - [Waymo — 2027 Summer Intern - MS/PhD - Software Engineer - Sys Intel & Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8233746) — deadline: Rolling — posted: 6d — location: Mountain View, CA — found: 2026-10-03T07:19:31Z
+- [Southwest Airlines — Summer 2027 Software Engineer Internship](https://careers.southwestair.com/us/en/job/R-2026-73270/Summer-2027-Software-Engineer-Internship) — deadline: Oct 7, 2026 — posted: null — location: Dallas, TX — found: 2026-10-03T11:16:25Z
