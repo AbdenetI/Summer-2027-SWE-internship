@@ -1,0 +1,85 @@
+{
+  "profile": {
+    "include_undated_internships": false,
+    "minimum_score": 60,
+    "max_post_age_days": 21,
+    "max_email_matches": 15
+  },
+  "boards": [
+    {
+      "source": "greenhouse",
+      "slug": "datadog",
+      "company": "Datadog"
+    },
+    {
+      "source": "greenhouse",
+      "slug": "figma",
+      "company": "Figma"
+    },
+    {
+      "source": "greenhouse",
+      "slug": "notion",
+      "company": "Notion"
+    },
+    {
+      "source": "greenhouse",
+      "slug": "duolingo",
+      "company": "Duolingo"
+    },
+    {
+      "source": "greenhouse",
+      "slug": "mongodb",
+      "company": "MongoDB"
+    },
+    {
+      "source": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe"
+    },
+    {
+      "source": "greenhouse",
+      "slug": "robinhood",
+      "company": "Robinhood"
+    },
+    {
+      "source": "greenhouse",
+      "slug": "discord",
+      "company": "Discord"
+    },
+    {
+      "source": "lever",
+      "slug": "palantir",
+      "company": "Palantir"
+    },
+    {
+      "source": "lever",
+      "slug": "rippling",
+      "company": "Rippling"
+    },
+    {
+      "source": "ashby",
+      "slug": "linear",
+      "company": "Linear"
+    },
+    {
+      "source": "ashby",
+      "slug": "ramp",
+      "company": "Ramp"
+    },
+    {
+      "source": "ashby",
+      "slug": "retool",
+      "company": "Retool"
+    },
+    {
+      "source": "ashby",
+      "slug": "vercel",
+      "company": "Vercel"
+    },
+    {
+      "source": "ashby",
+      "slug": "anthropic",
+      "company": "Anthropic"
+    }
+  ]
+}
